@@ -1,1 +1,2 @@
-# bilgisayar-muh-giris
+# Selen Totuk
+Öğrenci No: 123456789
